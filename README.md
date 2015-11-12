@@ -39,9 +39,9 @@ Field |	Value
  
  Coordinate system | Description
  ------------------|-------------
- **Long - Lat**	| A geographic coordinate system
-**NorthITM - EastITM** |	 The Irish Transverse Mercator (ITM)
-**NorthIG - EastIG** | The Irish grid reference system
+ **Long - Lat**	| [A geographic coordinate system](https://en.wikipedia.org/wiki/Geographic_coordinate_system)
+**NorthITM - EastITM** |	 [The Irish Transverse Mercator (ITM)](https://en.wikipedia.org/wiki/Irish_Transverse_Mercator)
+**NorthIG - EastIG** | [The Irish grid reference system](https://en.wikipedia.org/wiki/Irish_grid_reference_system#Grid_letters)
 **x - y** | [A Cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
 
 
